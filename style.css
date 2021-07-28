@@ -141,3 +141,14 @@ h2{
 .follower-item p {
     font-size: 15px;
 }
+
+footer {
+    background-color: black;
+    margin-top: 100px ;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+footer p {
+    color: white;
+}
