@@ -10,7 +10,6 @@ h2{
     font-size: 50px;
     margin: 0px 0px;
     font-weight: 800;
-    /* color: #575757; */
 }
 
 .colored-text{
@@ -89,7 +88,6 @@ h2{
 
 .recipy-menu {
     display: flex;
-    /* width: 90%; */
     margin: 0 auto;
 }
 
@@ -140,15 +138,4 @@ h2{
 
 .follower-item p {
     font-size: 15px;
-}
-
-footer {
-    background-color: black;
-    margin-top: 100px ;
-    text-align: center;
-    padding: 40px 0px;
-}
-
-footer p {
-    color: white;
 }
