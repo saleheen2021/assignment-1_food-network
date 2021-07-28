@@ -118,6 +118,44 @@ h2{
     color: tomato;
 }
 
+.subscription {
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.subscription h3 {
+    font-size: 40px;
+}
+
+.subscription p {
+    margin-bottom: 40px;
+}
+
+.subscription-box {
+    text-align: center;
+    width: 30%;
+    margin-left: 3.5%;
+    padding: 30px;
+    /* background-image: linear-gradient(orange, tomato); */
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.subscription-box h2 {
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.subscription-box h3 {
+    font-size: 50px;
+    color: teal;
+}
+
+.subscription-box button {
+    background-image: linear-gradient(#10B154, #98d6b2);
+}
+
 .follower {
     width: 85%;
     margin: 0 auto;
